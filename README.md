@@ -1,2 +1,2 @@
-# Creative_prims
+# Creative-prims
 Simple prims algorithm used to create a maze
